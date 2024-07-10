@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ikrajnish/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/ikrajnish/leetcode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/ikrajnish/leetcode/tree/master/0890-lemonade-change) |
+| [1720-crawler-log-folder](https://github.com/ikrajnish/leetcode/tree/master/1720-crawler-log-folder) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/ikrajnish/leetcode/tree/master/0055-jump-game) |
+## String
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/ikrajnish/leetcode/tree/master/1720-crawler-log-folder) |
+## Stack
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/ikrajnish/leetcode/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
